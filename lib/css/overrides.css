@@ -1,0 +1,23 @@
+.colorpicker-saturation {
+  background-image: url("/packages/risul_bootstrap-colorpicker/lib/img/saturation.png");
+}
+
+.colorpicker-hue {
+  background-image: url("/packages/risul_bootstrap-colorpicker/lib/img/hue.png");
+}
+
+.colorpicker-alpha {
+  background-image: url("/packages/risul_bootstrap-colorpicker/lib/img/alpha.png");
+}
+
+.colorpicker-color {
+  background-image: url("/packages/risul_bootstrap-colorpicker/lib/img/alpha.png");
+}
+
+.colorpicker.colorpicker-horizontal .colorpicker-hue {
+  background-image: url("/packages/risul_bootstrap-colorpicker/lib/img/hue-horizontal.png");
+}
+
+.colorpicker.colorpicker-horizontal .colorpicker-alpha {
+  background-image: url("/packages/risul_bootstrap-colorpicker/lib/img/alpha-horizontal.png");
+}
