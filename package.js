@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:bootstrap-colorpicker',
     summary: 'Bootstrap Colorpicker: http://mjolnic.com/bootstrap-colorpicker/',
-    version: '2.3.0',
+    version: '2.3.6',
     git: 'https://github.com/risul/meteor-bootstrap-colorpicker'
 });
 
